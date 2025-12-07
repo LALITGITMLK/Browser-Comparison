@@ -1,6 +1,6 @@
 <div align="center">
 
-# Browser Privacy & Security Comparison (2025)
+# Browser Privacy & Security Comparison (2025- 2026)
 
 **An interactive, up-to-date visual breakdown** of how major browsers actually protect your privacy in 2025 — no marketing fluff, just real data.
 
